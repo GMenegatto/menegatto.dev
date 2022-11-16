@@ -375,3 +375,13 @@ header {
         }
     }
 }
+
+footer {
+    background-color: #415163;
+    padding: 25px 0;
+
+    .container {
+        display: flex;
+        gap: 20px;
+    }
+}

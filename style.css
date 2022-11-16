@@ -392,4 +392,16 @@ header .container nav a {
   line-height: 24px;
   padding-right: 60px;
 }
+
+footer {
+  background-color: #415163;
+  padding: 25px 0;
+}
+
+footer .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 20px;
+}
 /*# sourceMappingURL=style.css.map */
